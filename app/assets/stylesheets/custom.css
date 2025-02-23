@@ -1,0 +1,40 @@
+.page-title {
+    font-size: 2rem;
+    color: #343a40;
+    font-weight: bold;
+  }
+  
+  .search-form {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .custom-table {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .custom-image img {
+    max-width: 100px !important; 
+    height: auto; 
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-btn {
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .custom-btn:hover {
+    background-color: #004085;
+    color: white;
+  }
+  
+  @media (max-width: 768px) {
+    .custom-btn {
+      width: 60%;
+    }
+  }
+  

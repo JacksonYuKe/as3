@@ -28,6 +28,15 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 
+
+# Add Gems
+gem "sassc-rails"
+gem "httparty"
+gem "bootstrap", "~> 4.0"
+gem "pg", group: :production
+gem "jquery-rails"
+
+
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
