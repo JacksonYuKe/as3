@@ -33,7 +33,7 @@ gem "solid_cable"
 gem "sassc-rails"
 gem "httparty"
 gem "bootstrap", "~> 4.0"
-gem "pg"
+gem "pg", "~> 1.1"
 gem "jquery-rails"
 
 
