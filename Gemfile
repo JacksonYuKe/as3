@@ -32,7 +32,7 @@ gem "solid_cable"
 # Add Gems
 gem "sassc-rails"
 gem "httparty"
-gem "bootstrap", "~> 4.0"
+gem "bootstrap", "~> 5.3"
 gem "pg", group: :production
 gem "jquery-rails"
 
